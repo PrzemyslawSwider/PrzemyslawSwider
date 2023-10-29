@@ -25,7 +25,7 @@ My name is Przemysław Świder. Recently I have started to be interested of soft
 * Praca w IT dla Stażystów i Juniorów (IT Jobs for Intern/Junior) POLSKA
 # 📑My Test Documentation
 * Test of self-made page about Gdańsk: https://docs.google.com/spreadsheets/d/1dr2OqtuiWzkbCKvlYIAtcpXQSkXbtpxCPBhUjyMZq8A/edit#gid=0 
-
+* Exploratory testing of skleptest.pl: https://github.com/PrzemyslawSwider/Portfolio/wiki/Testy-eksploracyjne
 <!---
 PrzemyslawSwider/PrzemyslawSwider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
