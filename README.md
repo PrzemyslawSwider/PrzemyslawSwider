@@ -23,6 +23,8 @@ My name is Przemysław Świder. Recently I have started to be interested of soft
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania - Materiały | Porady
 * Praca w IT dla Stażystów i Juniorów (IT Jobs for Intern/Junior) POLSKA
+# SQL 
+* https://github.com/PrzemyslawSwider/Portfolio/wiki/SQL-%E2%80%90-Przyk%C5%82adowy-skrypt
 # 📑My Test Documentation
 * Test of self-made page about Gdańsk: https://docs.google.com/spreadsheets/d/1dr2OqtuiWzkbCKvlYIAtcpXQSkXbtpxCPBhUjyMZq8A/edit#gid=0
   > page: adorable-gnome-a2da8e.netlify.app
