@@ -5,12 +5,12 @@ My name is Przemysław Świder. Recently I have started to be interested of info
 * MSSQL , MySQL
 * Git
 # 👩‍💻 Tech skills
-* Creating test case
-* Creating scenarios
-* Reporting bugs
 * SQL
 * SCRUM Basics
 * HTML, CSS - Basics
+* Creating test case
+* Creating scenarios
+* Reporting bugs
 # 🥇 Certificates
 * GIT od podstaw dla każdego - Udemy
 * "Podstawy SCRUM, Agile, Teoria, Praktyka, Certyfikacja" Udemy
