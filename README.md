@@ -1,5 +1,5 @@
 # 📖About me
-My name is Przemysław Świder. Recently I have started to be interested of software testing. My goal is to develop testing knowledge and technical skills. On this site I would like to share all my gained experience from personal studies and research.
+My name is Przemysław Świder. Recently I have started to be interested of information technology. My goal is to develop technical knowledge and skills. On this site I would like to share all my experience gained from personal studies and research.
 # 🛠️ Tools
 * Jira
 * MSSQL , MySQL
