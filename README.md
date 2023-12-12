@@ -18,7 +18,7 @@ My name is Przemysław Świder. Recently I have started to be interested of info
 * Tester manualny - Dobrekursy.it
 # 🗄️SQL 
 * https://github.com/PrzemyslawSwider/Portfolio/wiki/SQL-%E2%80%90-Przyk%C5%82adowy-skrypt
-* Final project for Databases subject on University of Technology: 
+* Final project for Databases subject on University of Technology: https://github.com/PrzemyslawSwider/Portfolio/wiki/Baza-danych-%E2%80%90-hurtownia-modelarska
 * # 📚 Books
 * Radosław Smiglin "Zawód tester"
 * Ben Forta "SQL w mgnieniu oka"
