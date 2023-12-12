@@ -12,11 +12,11 @@ My name is Przemysław Świder. Recently I have started to be interested of info
 * Creating test case
 * Creating scenarios
 * Reporting bugs
-# 🥇 Certificates
-* GIT od podstaw dla każdego - Udemy
-* "Podstawy SCRUM, Agile, Teoria, Praktyka, Certyfikacja" Udemy
 # 🖋️Courses
 * Tester manualny - Dobrekursy.it
+* Powershell dla administratora Windows - Udemy
+* GIT od podstaw dla każdego - Udemy
+* "Podstawy SCRUM, Agile, Teoria, Praktyka, Certyfikacja" - Udemy
 # 🗄️SQL 
 * https://github.com/PrzemyslawSwider/Portfolio/wiki/SQL-%E2%80%90-Przyk%C5%82adowy-skrypt
 * Final project for Databases subject on University of Technology: https://github.com/PrzemyslawSwider/Portfolio/wiki/Baza-danych-%E2%80%90-hurtownia-modelarska
