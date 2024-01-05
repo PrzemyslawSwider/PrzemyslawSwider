@@ -5,6 +5,7 @@ My name is Przemysław Świder. Recently I have started to be interested of info
 * MSSQL , MySQL
 * Git
 * Sage Symfonia
+* SAP
 # 👩‍💻 Tech skills
 * SQL
 * SCRUM Basics
